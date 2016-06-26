@@ -4,16 +4,20 @@ logfilestream
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
 [![Test coverage][cov-image]][cov-url]
+[![David deps][david-image]][david-url]
+[![Known Vulnerabilities][snyk-image]][snyk-url]
 [![npm download][download-image]][download-url]
 
 [npm-image]: https://img.shields.io/npm/v/logfilestream.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/logfilestream
 [travis-image]: https://img.shields.io/travis/node-modules/logfilestream.svg?style=flat-square
 [travis-url]: https://travis-ci.org/node-modules/logfilestream
-[cov-image]: http://codecov.io/github/modules/logfilestream/coverage.svg?branch=master
-[cov-url]: http://codecov.io/github/modules/logfilestream?branch=master
+[cov-image]: http://codecov.io/github/node-modules/logfilestream/coverage.svg?branch=master
+[cov-url]: http://codecov.io/github/node-modules/logfilestream?branch=master
 [david-image]: https://img.shields.io/david/node-modules/logfilestream.svg?style=flat-square
 [david-url]: https://david-dm.org/node-modules/logfilestream
+[snyk-image]: https://snyk.io/test/npm/logfilestream/badge.svg?style=flat-square
+[snyk-url]: https://snyk.io/test/npm/logfilestream
 [download-image]: https://img.shields.io/npm/dm/logfilestream.svg?style=flat-square
 [download-url]: https://npmjs.org/package/logfilestream
 
